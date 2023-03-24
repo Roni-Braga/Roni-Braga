@@ -1,6 +1,6 @@
 - 👋Ola, Sou o Ronielson, atualmento sou 3º Sargento temporário no Exercito Brasileiro
-- 👀 Estou estudando atualmente PHP, JAVASCRIPT, HTML, CSS
-- 🌱 Também estou me aprofundando em MYSQL.
+- 👀 Desenvolver Junior PHP JAVASCRIPT, HTML, CSS, MYSQL
+- 🌱 Também estou me aprofundando em JAVA.
 
 <div align="centro">
   <a href="https://github.com/rafaballerini">
