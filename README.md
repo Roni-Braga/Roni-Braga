@@ -1,5 +1,5 @@
-- 👋Olá, Sou o Ronielson, atualmento sou 3º Sargento temporário no Exercito Brasileiro
-- 👀 Desenvolver JAVA,PHP JAVASCRIPT, HTML, CSS, MYSQL
+- 👋 Olá, Sou o Ronielson
+- 👀 Apaixonado por Java, Spring Boot, PHP, JavaScript, Html, Css, MySQL
 
 
 <div align="centro">
